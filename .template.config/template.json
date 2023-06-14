@@ -1,17 +1,17 @@
 {
   "$schema": "http://json.schemastore.org/template",
-  "author": "JasonTaylorDev",
+  "author": "JasonTaylorDev, MMoody",
   "classifications": [
     "Web",
-    "SPA",
+    "API",
     "ASP.NET",
     "Clean Architecture"
   ],
-  "name": "Clean Architecture Solution",
-  "description":  "This is a test.",
-  "identity": "Clean.Architecture.Solution.CSharp",
-  "groupIdentity": "Clean.Architecture.Solution",
-  "shortName": "ca-sln",
+  "name": "PSL - Clean Architecture Solution",
+  "description": "Example Clean Architecture API",
+  "identity": "PSL.CLA.API.CSharp",
+  "groupIdentity": "PSL.CLA.API",
+  "shortName": "psl-cla-api",
   "tags": {
     "language": "C#",
     "type": "project"

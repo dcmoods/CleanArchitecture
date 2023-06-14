@@ -10,7 +10,6 @@ using Microsoft.AspNetCore.Http;
 
 namespace CleanArchitecture.WebUI.Controllers;
 
-[Authorize]
 public class TodoItemsController : ApiControllerBase
 {
     [HttpGet]
